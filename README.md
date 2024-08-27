@@ -20,7 +20,7 @@ Developed a 2D slots game with a graphical interface using Unity and C#.
 Developed an app that allows users to create and post memes to a feed, allowing users to save and like other posts using Firebase and Andriod Studio.
 
 # TECHNICAL SKILLS
-Proficient in Java and C#. Familiar with Python. Expert in Photoshop with a solid history in Photography and Videography.
+Proficient in Java and C#. Familiar with Python. Photoshop expert with a strong background in photography and videography.
 
 # EXPERIENCE
 - **Professional Photographer and Editor, North Barrington, IL 60010 (Summer 2024)**\
@@ -37,14 +37,16 @@ Taught kids how to code in basic Python and Lua. Assisted students with their pr
 - **CS Tutor at William Fremd High School (Fall 2020-Spring 2024)**
 
 # COURSE WORK
-Calculus III, AP Computer Science Principles, AP Calculus BC, AP Computer Science A, AP Physics 1 &2, AP Physics C, AP Statistic
-
-AP World History, Biology Honors, French, Photography, Videography, Graphics Design, Chemistry Honor, Journalism, AP US History, AP Language, AP Government, and Politics, AP Literature
+- 2024: Discrete Mathematics, Linear Algebra, Object-Oriented Programming II, Urban Agriculture: Designing and Assessing Edible Landscapes, Diet: Is it a cause or a solution
+- 2023: Multivariable Calculus (Calculus III), AP Physics C Mechanics, AP Physics C E&M, AP Statistic, AP Government & Politics, AP Macroeconomics, AP Literature
+- 2022: AP Calculus BC, AP Computer Science A, AP Physics 1 & 2, AP Chinese, AP Language
+- 2021: AP Computer Science Principles, AP World History, Chemistry Honor, Journalism, AP US History
+- 2021: Biology, French, Photography, Videography, Graphics Design
 
 # ACTIVITIES
 - High School Newspaper Editor, Fall 2020-Fall 2024.
 - Varsity High School Cross Country, Fall 2021-Fall 2024. 
-- Varsity High School Track, Spring 2021-Spring 2024 (Long Jump Captain, 2024)
+- Varsity High School Track, Spring 2021-Spring 2024 (Long Jump, Triple Jump)
 - High School Debate Club member, 2020-2021
 
 # HONORS
