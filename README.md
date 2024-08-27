@@ -1,4 +1,4 @@
-<img src="https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/mcdonalds.jpg" alt="pfp" width="200"/>
+![pfp](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/mcdonalds.jpg?raw=true)
 
 # EDUCATION
 **University of Maryland, College Park MD**\
