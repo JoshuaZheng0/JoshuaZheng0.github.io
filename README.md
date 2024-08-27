@@ -1,9 +1,4 @@
-<p style="text-align: center;">
-**Hey, I'm**\
-# Joshua Zheng
-</p>
-
-![pfp](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/mcdonalds.jpg?raw=true)
+<img src="https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/mcdonalds.jpg" alt="pfp" width="200"/>
 
 # EDUCATION
 **University of Maryland, College Park MD**\
