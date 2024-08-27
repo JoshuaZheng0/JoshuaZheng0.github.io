@@ -15,17 +15,17 @@ Diploma with Honors, May 2024            GPA 3.9/4.0          Weighted GPA 4.989
 *Captured and stitched drone imagery into a high-end 360° virtual tour featuring 52 scenes, using Photoshop and Cloudpano, for the former Vice President of Warner Bros*
 
 - **A Gambling Simulation Game (Spring 2024)**\
-*Developed a 2D slots game with a graphical interface using Unity and C#.
+Developed a 2D slots game with a graphical interface using Unity and C#.
 
 - **A social media platform to create and share memes (Fall 2023)**\
-*Developed an app that allows users to create and post memes to a feed, allowing users to save and like other posts using Firebase and Andriod Studio.
+Developed an app that allows users to create and post memes to a feed, allowing users to save and like other posts using Firebase and Andriod Studio.
 
 # TECHNICAL SKILLS
 Proficient in Java and C#. Familiar with Python. Expert in Photoshop with a solid history in Photography and Videography.
 
 # EXPERIENCE
 - **Professional Photographer and Editor, North Barrington, IL 60010 (Summer 2024)**\
-Operated a drone to capture aerial images of a private estate for a former Warner Bros Vice President. Skillfully stitched the images into immersive 360-degree photos using Photoshop and developed a 52-scene virtual walkthrough with Cloudpano. This interactive experience was then integrated into a professional website, showcasing the estate in an engaging and comprehensive manner. https://wanderingtree.com/weddings/interactive-tour/
+Operated a drone to capture aerial images of a private estate for a former Warner Bros Vice President. Skillfully stitched the images into immersive 360-degree photos using Photoshop and developed a 52-scene virtual walkthrough with Cloudpano. This interactive experience was then integrated into a professional website, showcasing the estate in an engaging and comprehensive manner.
 
 <div style="text-align:center" id="nrUoBcJQb"><script type="text/javascript" async data-short="nrUoBcJQb" data-path="tours" data-is-self-hosted="false" width="100%" height="500px" src="https://app.cloudpano.com/public/shareScript.js"></script></div>
 
@@ -36,9 +36,6 @@ Assisted in the reformatting of Excel files to manage payments from weddings and
 Taught kids how to code in basic Python and Lua. Assisted students with their projects.  
 
 - **CS Tutor at William Fremd High School (Fall 2020-Spring 2024)**
-
-![flowers](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/Birthday-Flowers-Colors.jpg?raw=true)
-
 
 # COURSE WORK
 Calculus III, AP Computer Science Principles, AP Calculus BC, AP Computer Science A, AP Physics 1 &2, AP Physics C, AP Statistic
