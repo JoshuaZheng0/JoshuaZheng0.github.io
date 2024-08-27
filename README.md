@@ -1,4 +1,3 @@
-<div class="parallax"></div>
 
 # EDUCATION
 **University of Maryland, College Park MD**\
