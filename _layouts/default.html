@@ -18,6 +18,21 @@
       })
     </script>
     <style>
+       .staticDiv {
+            position: fixed; /* Keeps the div fixed at the top left even when scrolling */
+            top: 0;
+            left: 0;
+            width: 150px; /* Adjust the width as needed */
+            height: 50px; /* Adjust the height as needed */
+            background-color: #4CAF50; /* Background color */
+            color: white; /* Text color */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3); /* Optional: Adds a shadow effect */
+        }
     .parallax {
       /* The image used */
       background-image: URL("https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/mcdonalds.jpg?raw=true");
@@ -40,7 +55,6 @@
 
   <body>
     <div class="shell">
-
       <header>
         <div class="ribbon-outer">
           <div class="ribbon-inner">
@@ -71,6 +85,8 @@
     
       <span class="banner-fix"></span>
 
+       <div id="staticDiv">I got more creativity than a toddler with a box of crayons.</div>
+      
       <section id="main_content">
         <div class="parallax"></div>
         {{ content }}
@@ -79,7 +95,7 @@
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-             <p>Thank You for Visiting</p>
+             <p>Powered by coffee and a little bit of magic</p>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
