@@ -3,7 +3,7 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=640">
+    <meta name="viewport" content="width=800">
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
     <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="only screen and (max-width:640px)">
@@ -17,6 +17,21 @@
         $('#main_content').headsmart()
       })
     </script>
+    <style>
+    .parallax {
+      /* The image used */
+      background-image: url("https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/mcdonalds.jpg");
+    
+      /* Set a specific height */
+      min-height: 300px; 
+    
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    </style>
 
 {% seo %}
 
