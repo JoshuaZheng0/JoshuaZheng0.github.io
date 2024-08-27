@@ -1,6 +1,10 @@
+<p style="text-align: center;">
 **Hey, I'm**\
 # Joshua Zheng
-![pfp](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/Birthday-Flowers-Colors.jpg?raw=true)
+</p>
+
+![pfp](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/mcdonalds.jpg?raw=true)
+
 # EDUCATION
 **University of Maryland, College Park MD**\
 Bachelor of Science in Computer Science, graduation date May 2028
