@@ -6,34 +6,34 @@ Bachelor of Science in Computer Science, graduation date May 2028
 Diploma with Honors, May 2024            GPA 3.9/4.0          Weighted GPA 4.989
 
 # PROJECTS
-**Debian Home Server (Summer 2024)**\
+- **Debian Home Server (Summer 2024)**\
 *Set up a Home Server using an old laptop by configuring services like SSH for secure remote access*
 
-**Exclusive 360° Virtual Tour for a Private Estate (Summer 2024)**\
+- **Exclusive 360° Virtual Tour for a Private Estate (Summer 2024)**\
 *Captured and stitched drone imagery into a high-end 360° virtual tour featuring 52 scenes, using Photoshop and Cloudpano, for the former Vice President of Warner Bros*
 
-**A Gambling Simulation Game (Spring 2024)**\
+- **A Gambling Simulation Game (Spring 2024)**\
 *Developed a 2D slots game with a graphical interface using Unity and C#.
 
-**A social media platform to create and share memes (Fall 2023)**\
+- **A social media platform to create and share memes (Fall 2023)**\
 *Developed an app that allows users to create and post memes to a feed, allowing users to save and like other posts using Firebase and Andriod Studio.
 
 # TECHNICAL SKILLS
 Proficient in Java and C#. Familiar with Python. Expert in Photoshop with a solid history in Photography and Videography.
 
 # EXPERIENCE
-**Professional Photographer and Editor, North Barrington, IL 60010 (Summer 2024)**\
+- **Professional Photographer and Editor, North Barrington, IL 60010 (Summer 2024)**\
 Operated a drone to capture aerial images of a private estate for a former Warner Bros Vice President. Skillfully stitched the images into immersive 360-degree photos using Photoshop and developed a 52-scene virtual walkthrough with Cloudpano. This interactive experience was then integrated into a professional website, showcasing the estate in an engaging and comprehensive manner. https://wanderingtree.com/weddings/interactive-tour/
 
 <div id="nrUoBcJQb"><script type="text/javascript" async data-short="nrUoBcJQb" data-path="tours" data-is-self-hosted="false" width="120%" height="500px" src="https://app.cloudpano.com/public/shareScript.js"></script></div>
 
-**Sales Intern for Elegante Cuisine Inc, Arlington Heights IL (Summer 2024 - Present)**\
+- **Sales Intern for Elegante Cuisine Inc, Arlington Heights IL (Summer 2024 - Present)**\
 Assisted in the reformatting of Excel files to manage payments from weddings and events. Handled incoming calls and contacted customers in need of catering services.  
 
-**Intern for Kid’s STEM Studio, Shamburg IL (Summer 2023)**\
+- **Intern for Kid’s STEM Studio, Shamburg IL (Summer 2023)**\
 Taught kids how to code in basic Python and Lua. Assisted students with their projects.  
 
-**CS Tutor at William Fremd High School (Fall 2020-Spring 2024)**\
+- **CS Tutor at William Fremd High School (Fall 2020-Spring 2024)**
 
 ![flowers](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/Birthday-Flowers-Colors.jpg?raw=true)
 
