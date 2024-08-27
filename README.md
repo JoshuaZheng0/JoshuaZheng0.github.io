@@ -25,6 +25,8 @@ Proficient in Java and C#. Familiar with Python. Expert in Photoshop with a soli
 **Professional Photographer and Editor, North Barrington, IL 60010 (Summer 2024)**
 Operated a drone to capture aerial images of a private estate for a former Warner Bros Vice President. Skillfully stitched the images into immersive 360-degree photos using Photoshop and developed a 52-scene virtual walkthrough with Cloudpano. This interactive experience was then integrated into a professional website, showcasing the estate in an engaging and comprehensive manner. https://wanderingtree.com/weddings/interactive-tour/
 
+<div id="nrUoBcJQb"><script type="text/javascript" async data-short="nrUoBcJQb" data-path="tours" data-is-self-hosted="false" width="120%" height="500px" src="https://app.cloudpano.com/public/shareScript.js"></script></div>
+
 **Sales Intern for Elegante Cuisine Inc, Arlington Heights IL (Summer 2024 - Present)**
 Assisted in the reformatting of Excel files to manage payments from weddings and events. Handled incoming calls and contacted customers in need of catering services.  
 
