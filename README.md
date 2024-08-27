@@ -33,7 +33,8 @@ Taught kids how to code in basic Python and Lua. Assisted students with their pr
 
 ### CS Tutor at William Fremd High School (Fall 2020-Spring 2024)
 
-![alt text](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/assets/img/image.jpg?raw=true)
+![flowers](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/Birthday-Flowers-Colors.jpg?raw=true)
+
 
 # COURSE WORK
 Calculus III, AP Computer Science Principles, AP Calculus BC, AP Computer Science A, AP Physics 1 &2, AP Physics C, AP Statistic
