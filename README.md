@@ -1,4 +1,4 @@
-![pfp](https://github.com/JoshuaZheng0/JoshuaZheng0.github.io/blob/main/assets/img/mcdonalds.jpg?raw=true)
+<div class="parallax"></div>
 
 # EDUCATION
 **University of Maryland, College Park MD**\
