@@ -24,7 +24,7 @@ Proficient in Java and C#. Familiar with Python. Expert in Photoshop with a soli
 
 # EXPERIENCE
 - **Professional Photographer and Editor, North Barrington, IL 60010 (Summer 2024)**\
-Operated a drone to capture aerial images of a private estate for a former Warner Bros Vice President. Skillfully stitched the images into immersive 360-degree photos using Photoshop and developed a 52-scene virtual walkthrough with Cloudpano. This interactive experience was then integrated into a professional website, showcasing the estate in an engaging and comprehensive manner.
+Operated a drone to capture aerial images for the former Warner Bros Vice President. Stitched the images into 360-degree photos using Photoshop and developed a 52-scene virtual walkthrough with Cloudpano, integrating it into a professional website to showcase the property.
 
 <div style="text-align:center" id="nrUoBcJQb"><script type="text/javascript" async data-short="nrUoBcJQb" data-path="tours" data-is-self-hosted="false" width="100%" height="300px" src="https://app.cloudpano.com/public/shareScript.js"></script></div>
 
