@@ -20,7 +20,7 @@ Taught kids how to code in basic **Python** and **Lua**. Assisted students with 
 - **CS Tutor at William Fremd High School (Fall 2020-Spring 2024)**
 
 # TECHNICAL SKILLS
-Proficient in **Java**, **C#**, **HTML**, **CSS**. Familiar with **Python**. Photoshop expert with a strong background in photography and videography.
+Proficient in **Java**, **Python**, **C#**, **Javascript**, **HTML5**, and **CSS**. Experienced with **Android Studio, Unity, IntelliJ, VS code, and Blender**. Expert in **Photoshop**, with a strong background in photography and videography.
 
 # ACTIVITIES
 - High School Newspaper Editor, Fall 2020-Fall 2024.
