@@ -12,7 +12,7 @@ Created an exclusive 360° virtual tour for the private estate of the former Vic
 <div style="text-align:center" id="nrUoBcJQb"><script type="text/javascript" async data-short="nrUoBcJQb" data-path="tours" data-is-self-hosted="false" width="100%" height="300px" src="https://app.cloudpano.com/public/shareScript.js"></script></div>
 
 - **Sales Intern for Elegante Cuisine Inc, Arlington Heights IL (Summer 2024 - Present)**\
-Assisted in reformatting **Excel** to manage payments from weddings and events. Handled incoming calls and contacted customers in need of catering services.  
+Organized the grand opening of the Company. Reformatted **Excel** files to manage payments related to weddings and events. Managed incoming calls and reached out to customers seeking catering services, gaining valuable skills. Enhanced company relationships with customers and networked successfully through marketing strategies and strong interpersonal skills.
 
 - **Intern for Kid’s STEM Studio, Shamburg IL (Summer 2023)**\
 Taught kids how to code in basic **Python** and **Lua**. Assisted students with their projects.  
