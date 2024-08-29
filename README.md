@@ -6,7 +6,7 @@ Bachelor of Science in Computer Science, graduation date May 2028
 **William Fremd High School, Palatine IL**\
 Diploma with Honors, May 2024            GPA 3.9/4.0          Weighted GPA 4.989
 
-# EXPERIENCE
+# PROFESSIONAL EXPERIENCE
 - **360-Degree Imaging Engineer, North Barrington, IL (Summer 2024)**\
 Created an exclusive 360° virtual tour for the private estate of the former Vice President of Warner Brothers, capturing aerial images with a drone, producing 360-degree photos using **Photoshop**, and developing a 52-scene virtual walkthrough with **Cloudpano**, integrating it into a professional website. [Link](https://wanderingtree.com/weddings/interactive-tour/) 
 <div style="text-align:center" id="nrUoBcJQb"><script type="text/javascript" async data-short="nrUoBcJQb" data-path="tours" data-is-self-hosted="false" width="100%" height="300px" src="https://app.cloudpano.com/public/shareScript.js"></script></div>
