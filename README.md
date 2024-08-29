@@ -55,3 +55,5 @@ Taught kids how to code in basic Python and Lua. Assisted students with their pr
 - Richard C Kolze Award, 2024
 - AP Scholar with Distinction, 2023 and 2024
 - IHSA Sectionals Long Jump, 6th Place, 2023
+
+Go to [about page](about.md)
