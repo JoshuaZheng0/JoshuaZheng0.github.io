@@ -1,3 +1,9 @@
+---
+title: COLUMN
+layout: template
+filename: column.md
+--- 
+
 # PROJECTS
 - **Debian Home Server (Summer 2024)**\
 *Set up a Home Server using an old laptop by configuring services like SSH for secure remote access*
