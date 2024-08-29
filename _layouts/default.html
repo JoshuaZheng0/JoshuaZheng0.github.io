@@ -51,7 +51,6 @@
       /* Set a specific height */
       min-height: 200px; 
       object-fit: contain;
-      z-index: 2;
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
       background-position: calc(50% + 150px) calc(50% + 100px);
@@ -98,12 +97,9 @@
     
       <span class="banner-fix"></span>
     </div>
+    
     <div style ="display: flex">
-      <section class="main_content"  style="padding: 0px 0px 0; z-index: 2">
-        <div class="parallax"></div>
-      </section>
-    </div>
-    <div style ="display: flex">
+      <div class="parallax"></div>
        <section class="main_content"  style="padding: 0px 5px 0; z-index: 2">
         {{ content }}
       </section>
