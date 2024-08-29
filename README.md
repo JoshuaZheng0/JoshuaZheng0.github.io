@@ -7,9 +7,8 @@ Bachelor of Science in Computer Science, graduation date May 2028
 Diploma with Honors, May 2024            GPA 3.9/4.0          Weighted GPA 4.989
 
 # EXPERIENCE
-- **Professional Photographer and Editor, North Barrington, IL 60010 (Summer 2024)**\
-Operated a drone to capture aerial images for the former Warner Bros Vice President. Stitched the images into 360-degree photos using Photoshop and developed a 52-scene virtual walkthrough with Cloudpano, integrating it into a professional website to showcase the property.
-
+- **Interactive Visual Developer, North Barrington, IL 60010 (Summer 2024)**\
+Captured aerial images with a drone for the former Warner Bros VP, created 360-degree photos using Photoshop, and developed a 52-scene virtual walkthrough with Cloudpano, integrating it into a professional website. [Link](https://wanderingtree.com/weddings/interactive-tour/) 
 <div style="text-align:center" id="nrUoBcJQb"><script type="text/javascript" async data-short="nrUoBcJQb" data-path="tours" data-is-self-hosted="false" width="100%" height="300px" src="https://app.cloudpano.com/public/shareScript.js"></script></div>
 
 - **Sales Intern for Elegante Cuisine Inc, Arlington Heights IL (Summer 2024 - Present)**\
