@@ -19,9 +19,6 @@
     <!-- Load the element definition -->
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
     
-    <!-- Simply set the `src` attribute to your MD file and win -->
-    <zero-md src="README.md"></zero-md>
-    
     <script>
       $(document).ready(function () {
         $('#main_content').headsmart()
@@ -110,10 +107,9 @@
         {{ content }}
       </section>
       
-      <section id="main_content"  style="padding: 0px 5px 0">
-        <div class="parallax"></div>
-        {{ content }}
-      </section>
+      <!-- Simply set the `src` attribute to your MD file and win -->
+      <zero-md src="README.md" id="main_content"></zero-md>
+      
       </div>
       
       <footer style="background:#e9e4d8">
