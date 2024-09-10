@@ -19,8 +19,13 @@ Taught kids how to code in basic **Python** and **Lua**. Assisted students with 
 
 - **CS Tutor at William Fremd High School (Fall 2020-Spring 2024)**
 
-# TECHNICAL SKILLS
-Proficient in **Java**, **Python**, **C#**, **Javascript**, **HTML5**, and **CSS**. Experienced with **Android Studio, Unity, IntelliJ, VS code, and Blender**. Expert in **Photoshop**, with a strong background in photography and videography.
+# SKILLS & EXPERTISE
+
+- **Programming Languages**: Java, Python, C#, JavaScript, Lua, C++
+- **Web Development**: React, CSS
+- **Data Science & Machine Learning**: Python libraries (Pandas, Numpy, Scikit-learn, Keras), LSTM models, data preprocessing, performance evaluation
+- **IDEs**: Android Studio, Unity, IntelliJ, Firebase, VS Code
+- **Design & Media**: Photoshop, photography, videography
 
 # ACTIVITIES
 - High School Newspaper Editor, Fall 2020-Fall 2024.
@@ -34,5 +39,18 @@ Proficient in **Java**, **Python**, **C#**, **Javascript**, **HTML5**, and **CSS
 - 2022: AP Calculus BC, AP Computer Science A, AP Physics 1 & 2, AP Chinese, AP Language
 - 2021: AP Computer Science Principles, AP World History, Chemistry Honor, Journalism, AP US History
 - 2021: Biology, French, Photography, Videography, Graphics Design
+
+- **Interactive Audio Recorder with React (Fall 2024)**: Developed a custom audio recorder using React.js and the react-mic library, featuring real-time waveform visualization and playback/download functionality. Utilized Tailwind CSS for a modern, responsive design. The project is published on my website, showcasing its interactive features and user-friendly interface.
+
+- **Back Testing Trading Simulator (Spring 2024)**: A stock trading simulator leveraging the Relative Strength Index (RSI) for predicting buy/sell signals. Built with Python, Pandas, Matplotlib, and Scikit-learn, it allows users to backtest strategies, visualize performance, and explore machine learning-enhanced predictions.
+
+- **Meme Generator App (Fall 2023)**: Developed a meme generator Android app using Java and Firebase, featuring real-time data synchronization and user authentication. Implemented Firebase Authentication for secure logins, and Firestore for managing and updating user-generated memes. Utilized Firebase Storage for image handling and Base64 encoding for efficient data processing. Designed a responsive UI with dark/light mode support and optimized performance with dynamic content loading.
+
+- **Tesla Stock Price Predictor (Summer 2023)**: Developed an LSTM-based model using Pandas, Numpy, and Keras to predict Tesla stock prices. Utilized RSI indicators and evaluated with R-squared, max error, and variance metrics. Visualized results with Matplotlib and refined through backtesting.
+
+- **A Gambling Simulation Game (Spring 2024)**: Developed a 2D slots game with a graphical interface using Unity and C#.
+
+- **Debian Home Server (Summer 2024)**: Set up a Home Server using an old laptop by configuring services like SSH for secure remote access.
+
 
 Go to [about page](about.md)
